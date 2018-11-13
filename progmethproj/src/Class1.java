@@ -12,5 +12,9 @@ public class Class1 extends Character implements Humen{
 		return true;
 	}
 	
+	public boolean LevelUp() {
+		return true;
+	}
+	
 	
 }
